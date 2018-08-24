@@ -2,6 +2,12 @@
 
 Web Font Version of Nanum Barun Gothic. Created by [NAVER](http://www.naver.com) in Oct, 2013.
 
+## Types (customized)
+
+ - `Basic` Types: All Supported (`kr` / `en` / `cn` / etc..)
+ - `-Light` Types: `kr` / `en` Supported (`cn` removed)
+ - `-Kor` Types: only `kr` Supported (`en` / `cn` removed)
+
 ## Weights
 
 - Bold(700)
